@@ -1,0 +1,31 @@
+5
+RENTED:
+Javastraat 90
+4078KB Eindhoven
+2 rooms
+saleprice 400
+centralheating
+SOLD:
+Emmalaan 23
+3051JC Rotterdam
+7 rooms
+saleprice 300000
+centralheating
+RENTED:
+Javastraat 88
+4078KB Eindhoven
+3 rooms
+saleprice 500
+centralheating
+RENTED:
+Mekelweg 36
+2967 Delft
+10 rooms
+saleprice 10
+centralheating
+SOLD:
+Emmalaan 25
+3051JC Rotterdam
+5 rooms
+saleprice 280000
+centralheating
